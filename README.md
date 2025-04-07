@@ -21,4 +21,4 @@ This program is written in Assembly for the MIPS processor and performs arithmet
 4. The program will then ask you for the second number and compute the result of the operation.
 5. If you want to perform another calculation, the program will ask if you'd like to continue (type `yes` to continue, `no` to exit).
 
-## Example Usage
+
